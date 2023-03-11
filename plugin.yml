@@ -1,27 +1,16 @@
 name: CommunityShop 2.0
-
 main: Biswajit\CShop
-
 version: 2.0.0
-
 api: 4.0.0
-
 author: Biswajit
 
 commands:
-
     cshop:
-
         description: "Use To Open Community Shop"
-
         permission: cshop.cmd.use
-
-        
+      
 
 permissions:
-
     cshop.cmd.use:
-
         description: "Permission To Use /cshop Command"
-
         default: true
